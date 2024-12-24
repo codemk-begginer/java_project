@@ -41,7 +41,8 @@ Installation et Configuration
 
 1. Clonez ce dépôt sur votre machine locale.
 
-git clone https://github.com/java_project/MyWeatherApp.git
+git clone https://github.com/codemk-begginer/java_project.git
+
 
 
 2. Importez le projet dans Eclipse :
@@ -61,7 +62,7 @@ Allez dans Window > Preferences > Server > Runtime Environments.
 Cliquez sur Add et sélectionnez votre version de Tomcat.
 
 Spécifiez le chemin d'installation de Tomcat.
-(une fois que vous avez terminé pour vérifier que apache tomcat a bien été installé vous allez dans l'arborescence du projet vous ouvrez java resource ensuite vous ouvrez librarie : a l'interieur vous devrez trouver server runtime[apache tomcat v10.1] )
+(une fois que vous avez terminé pour vérifier que apache tomcat a bien été installé vous allez dans l'arborescence du projet vous ouvrez java resource ensuite vous ouvrez libraries a l'interieur vous devrez trouver "server runtime[apache tomcat v10.1]" )
 
 
 
