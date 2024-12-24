@@ -17,9 +17,9 @@ Backend : Java EE (Servlets, JSP)
 
 Frontend : HTML, CSS, JavaScript
 
-Serveur d'application : Apache Tomcat
+Serveur d'application : Apache Tomcat v10.1
 
-IDE : Eclipse IDE
+IDE : Eclipse IDE for java ee developpers 
 
 
 
@@ -30,9 +30,9 @@ Avant de commencer, assurez-vous que les éléments suivants sont installés sur
 
 JDK 21
 
-Eclipse IDE
+Eclipse IDE for java ee developpers
 
-Apache Tomcat
+Apache Tomcat v10.1
 
 
 
@@ -72,8 +72,9 @@ Faites un clic droit sur le projet dans Eclipse.
 Sélectionnez Run As > Run on Server.
 
 
-(si l'application ne se lance pas automatiquement sur le navigateur)
-5. Accédez à l'application dans votre navigateur à l'adresse suivante :
+
+
+5. Accédez à l'application dans votre navigateur à l'adresse suivante (si l'application ne se lance pas automatiquement sur le navigateur) :
 
 http://localhost:8080/MyWeatherApp
 
