@@ -17,7 +17,7 @@ __Technologies Utilisées__
 
 * Frontend : HTML, CSS, JavaScript
 
-* Serveur d'application :  __ Apache Tomcat v10.1 __
+* Serveur d'application : Apache Tomcat v10.1
 
 * IDE : Eclipse IDE for java ee developpers 
 
@@ -39,14 +39,14 @@ Avant de commencer, assurez-vous que les éléments suivants sont installés sur
 
 __Installation et Configuration__
 
-1. Clonez ce dépôt sur votre machine locale.
+1. __Clonez ce dépôt sur votre machine locale.__
 
 git clone -b main --single-branch https://github.com/codemk-begginer/java_project.git
 
 
 
 
-2. Importez le projet dans Eclipse :
+2. __Importez le projet dans Eclipse :__
 
 Ouvrez Eclipse.
 
@@ -56,7 +56,7 @@ Sélectionnez le dossier contenant le projet.
 
 
 
-3. Configurez Apache Tomcat :
+3. __Configurez Apache Tomcat :__
 
 Allez dans Window > Preferences > Server > Runtime Environments.
 
@@ -68,7 +68,7 @@ Spécifiez le chemin d'installation de Tomcat.
 
 
 
-4. Déployez l'application sur le serveur Tomcat :
+4. __Déployez l'application sur le serveur Tomcat :__
 
 ouvrez et Faites un clic droit sur le fichier MyServlet.java contennue dans src/main/java > MyPackage   .
 
@@ -77,7 +77,8 @@ Sélectionnez Run As > Run on Server.
 
 
 
-5. Accédez à l'application dans votre navigateur à l'adresse suivante *(si l'application ne se lance pas automatiquement sur le navigateur)* :
+5. __Accédez à l'application dans votre navigateur à l'adresse suivante__   
+*(si l'application ne se lance pas automatiquement sur le navigateur)* :
 
 http://localhost:8080/MyWeatherApp
 
